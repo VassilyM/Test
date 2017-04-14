@@ -17,5 +17,4 @@ Règles Construction
 * Le props block est totalement interdit. Un keypad ou un bouton doivent être placé et accessible pour les joueurs.
 * Interdiction de mettre un delay pour les keypad et fadding door.
 * Interdiction de faire des meutrières face au keypad pour tuer les joueurs.
-
-
+*
